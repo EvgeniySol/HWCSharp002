@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/HW002/Task13/bin/Debug/net6.0/Task13
+/Users/macbook/Desktop/HW002/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/macbook/Desktop/HW002/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/macbook/Desktop/HW002/Task13/bin/Debug/net6.0/Task13.dll
+/Users/macbook/Desktop/HW002/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.dll
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/refint/Task13.dll
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/Users/macbook/Desktop/HW002/Task13/obj/Debug/net6.0/ref/Task13.dll
