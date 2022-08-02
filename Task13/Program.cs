@@ -1,22 +1,12 @@
-﻿// string ThirdDigit(int num)
-//  {
-//      int b = x / 100;
-//      int a = x % 100;
-//      int c = a % 10;
-//      int sum = b * 10 + c;
+﻿string ThirdDigit(int num)
+ {
 
-//     return sum;
-//  }
+     if(num < 100) return ("There is no third digit.");
+    
+ }
 
-// int number = new Random().Next(100,999);
-// int gtr = IsNumb(number);
+Console.Write("Input number: ");
+int number = Convert.ToInt32(Console.ReadLine());
+string result = ThirdDigit(number);
 
-// Console.WriteLine(number);
-// Console.WriteLine(gtr);
-
-
-int x = 6;
-//string third = GetSecondDigit(x);
-string str = x.ToString();
-Console.WriteLine(str[2]);
-//Console.WriteLine(third);
+Console.WriteLine(result);
